@@ -1,12 +1,16 @@
 # Nginx_Proxy_Manager
 有介面的反向代理神器 NGINX PROXY MANAGER
 
+使用麻省理工開源的Docker架設
+
+https://nginxproxymanager.com/
+
 ##快速上手
 
 1. 下載專案
 
     git clone https://github.com/h63016401/Nginx_Proxy_Manager.git
-    
+
     cd Nginx_Proxy_Manager
 
 2. 一鍵啟動
