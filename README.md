@@ -6,6 +6,7 @@
 1. 下載專案
 
     git clone https://github.com/h63016401/Nginx_Proxy_Manager.git
+    
     cd Nginx_Proxy_Manager
 
 2. 一鍵啟動
